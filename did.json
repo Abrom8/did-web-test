@@ -2,7 +2,7 @@
     "@context": [
         "https://www.w3.org/ns/did/v1"
     ],
-    "id": "did:web:compliance.lab.gaia-x.eu",
+    "id": "did:web:raw.githubusercontent.com:Abrom8:did-web-test:main",
     "verificationMethod": [
         {
             "@context": "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/",

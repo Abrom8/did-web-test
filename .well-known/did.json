@@ -2,7 +2,7 @@
     "@context": [
         "https://www.w3.org/ns/did/v1"
     ],
-    "id": "did:web:raw.githubusercontent.com:Abrom8:did-web-test:main",
+    "id": "did:web:raw.githubusercontent.com:Abrom8:did-web-test:main:123",
     "myTest":"testvalue",
     "verificationMethod": [
         {
